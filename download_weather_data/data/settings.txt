@@ -1,0 +1,7 @@
+package_path=download_weather_data
+data_folder=data
+#api_key=YOUR_API_KEY
+raw_data_filename=data/weather_data.csv
+db_name=data/weather.db
+cities_csv=data/italian_cities_name.csv
+cities=["Milan", "Cagliari", "Bologna", "Vicenza"]
