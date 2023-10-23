@@ -7,10 +7,15 @@ The script retrieves weather data from the last 10 days up to yesterday. If the 
 The data is then normalized and saved to a database. The script manages both new and previously fetched cities and ensures that the data is fetched only once.
 
 ## Dependencies
-os
-pandas
-datetime
-pyowm
+- os
+- pandas
+- DateTime
+- pyowm
+
+  You can install the requirments txt:
+
+  pip install -r requirements.txt
+
 
 ## Setup
 Ensure that you have the required dependencies installed.
